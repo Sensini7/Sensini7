@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://camo.githubusercontent.com/f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966" alt="cover" />
+<img width="50%" height = "250px" src="https://camo.githubusercontent.com/f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -48,6 +48,26 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensini7&theme=default" />
 </a>
+
+## :chart: Github Stats
+
+<p align="center">
+	<img 
+	src="https://github-readme-stats.vercel.app/api?username=sensini7&show_icons=true&line_height=27&count_private=true"
+	alt="GitHub Stats"
+	/>
+</p>
+
+<p align="center">
+  <img 
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensini7&hide=jupyter%20notebook&layout=compact"
+	alt="Most Used Languages"
+	/>
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensini7&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sensini7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
