@@ -40,34 +40,15 @@
 
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sensini7&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensini7&theme=default" />
-</a>
 
 ## :chart: Github Stats
 
-<p align="center">
-	<img 
-	src="https://github-readme-stats.vercel.app/api?username=sensini7&show_icons=true&line_height=27&count_private=true"
-	alt="GitHub Stats"
-	/>
-</p>
-
-<p align="center">
-  <img 
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensini7&hide=jupyter%20notebook&layout=compact"
-	alt="Most Used Languages"
-	/>
-</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensini7&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sensini7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
