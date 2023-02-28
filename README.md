@@ -4,8 +4,10 @@
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
+  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sensini7.Sensini7)
+  
 
 </p>
 <div size='20px'> Hi! I'm Peleke Sensini. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
