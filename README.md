@@ -10,28 +10,23 @@
   
 
 </p>
-<div size='20px'> Hi! I'm Peleke Sensini. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px'> Hi! I'm Peleke Sensini. A Multi-Cloud Data And AI Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I’m currently working on Linux and DevOps Concepts/Projects
+- 🔭 I’m currently working on Data And AI
 
-- 🌱 I’m currently learning Linux,DevOps, 
+- 🌱 I’m currently learning how to build enterprise ready AI Applications and chatbots on both Aws And Azure, 
 
-- 👯 I’m looking to collaborate on Anything Cloud & DevOps related 
+- 👯 I’m looking to collaborate on Anything Data Abd AI in the Cloud
 
-- 💬 Talk to me about AWS, Linux, Devops  
+- 💬 Talk to me about AWS, Azure, Data engineering, AI
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
 <a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
