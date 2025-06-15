@@ -28,10 +28,10 @@
 <a href="https://github.com/Sensini7?tab=repositories&language=azure"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg"/></a>
 <a href="https://github.com/Sensini7?tab=repositories&language=kubernetes"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg"/></a>
 <a href="https://github.com/Sensini7?tab=repositories&language=docker"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"/></a>
-<a href="https://github.com/Sensini7?tab=repositories&language=terraform"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terraform.svg"/></a>
-<a href="https://github.com/Sensini7?tab=repositories&language=powershell"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/powershell.svg"/></a>
+<!-- <a href="https://github.com/Sensini7?tab=repositories&language=terraform"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terraform.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=powershell"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/powershell.svg"/></a> -->
 <a href="https://github.com/Sensini7?tab=repositories&language=github"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://github.com/Sensini7?tab=repositories&language=gitlab"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gitlab.svg"/></a>
+<!-- <a href="https://github.com/Sensini7?tab=repositories&language=gitlab"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gitlab.svg"/></a> -->
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
