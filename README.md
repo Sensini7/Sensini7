@@ -10,7 +10,7 @@
   
 
 </p>
-<div size='20px'> Hi! I'm Peleke Sensini, a Senior Multi-Cloud Automation Engineer. Thank you for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px'> Hi! I'm Peleke Sensini, a Senior Multi-Cloud Automation Engineer (Aws & Azure). Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
