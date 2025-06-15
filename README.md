@@ -15,13 +15,13 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I'm currently automating infrastructure and application deployments across AWS and Azure
+- 🔭 I'm currently automating infrastructure, application and configuration deployments across AWS and Azure
 
-- 🌱 Learning advanced container orchestration and optimizing CI/CD pipelines
+- 🌱 Learning advanced Gen AI concepts.
 
 - 👯 I'm looking to collaborate on cloud native automation and deployment projects
 
-- 💬 Talk to me about AWS, Azure, Kubernetes, Docker, Terraform, Bicep, GitHub/GitLab, self-hosted runners, Bash and PowerShell
+- 💬 Talk to me about AWS, Azure, Enterprise Cloud Identity, ( NIST 800, SCUBA Compliance etc )  Kubernetes, Docker, Terraform, Python, Self hosted GitHub/GitLab, Bash and PowerShell
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href="https://github.com/Sensini7?tab=repositories&language=aws"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg"/></a>
