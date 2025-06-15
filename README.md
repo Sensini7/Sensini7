@@ -10,23 +10,28 @@
   
 
 </p>
-<div size='20px'> Hi! I'm Peleke Sensini. A Multi-Cloud Data And AI Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px'> Hi! I'm Peleke Sensini, a Senior Multi-Cloud Automation Engineer. Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I’m currently working on Data And AI
+- 🔭 I'm currently automating infrastructure, application and configuration deployments across AWS and Azure
 
-- 🌱 I’m currently learning how to build enterprise ready AI Applications and chatbots on both Aws And Azure, 
+- 🌱 Learning advanced Gen AI concepts.
 
-- 👯 I’m looking to collaborate on Anything Data Abd AI in the Cloud
+- 👯 I'm looking to collaborate on cloud native automation and deployment projects
 
-- 💬 Talk to me about AWS, Azure, Data engineering, AI
+- 💬 Talk to me about AWS, Azure, Enterprise Cloud Identity, ( NIST 800, SCUBA Compliance etc )  Kubernetes, Docker, Terraform, Python, Self hosted GitHub/GitLab, Bash and PowerShell
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href="https://github.com/Sensini7?tab=repositories&language=aws"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=azure"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=kubernetes"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=docker"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=terraform"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terraform.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=powershell"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/powershell.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=github"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://github.com/Sensini7?tab=repositories&language=gitlab"><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gitlab.svg"/></a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
